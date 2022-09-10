@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring-1/pom.xml" />
+        <option value="$PROJECT_DIR$/boot1/pom.xml" />
+        <option value="$PROJECT_DIR$/boot2/pom.xml" />
+        <option value="$PROJECT_DIR$/boot3-incepetor/pom.xml" />
+        <option value="$PROJECT_DIR$/boot4-servlet/pom.xml" />
+        <option value="$PROJECT_DIR$/boot5-filter/pom.xml" />
+        <option value="$PROJECT_DIR$/boot6-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/boot7-incepetor/pom.xml" />
+        <option value="$PROJECT_DIR$/boot9-restful/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

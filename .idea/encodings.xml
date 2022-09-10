@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/boot1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot3-incepetor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot3-incepetor/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot4-servlet/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot4-servlet/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot5-filter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot5-filter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot6-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot6-mybatis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot7-incepetor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot7-incepetor/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot8-generatorTest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot8-generatorTest/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot9-restful/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot9-restful/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

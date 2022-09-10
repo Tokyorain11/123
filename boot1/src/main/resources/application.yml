@@ -1,0 +1,15 @@
+spring:
+  profiles:
+    active: test
+
+
+name: zhangsan
+age: 15
+
+student.name: 张三
+student.age: 15
+student.score: 80
+
+address.province: 无锡
+address.country: 江阴
+address.town: 璜土

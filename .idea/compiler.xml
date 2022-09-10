@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="boot3-incepetor" />
+        <module name="boot7-incepetor" />
+        <module name="boot6-mybatis" />
+        <module name="spring-1" />
+        <module name="boot4-servlet" />
+        <module name="boot1" />
+        <module name="boot5-filter" />
+        <module name="boot2" />
+        <module name="boot9-restful" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="boot8-generatorTest" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
